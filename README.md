@@ -3,7 +3,6 @@ Exploring Linux commands to decrypt files and reveal hidden messages.
 
 # Decrypting an Encrypted File Using Linux Commands
 
-## Project Description
 
 We will complete a series of tasks to obtain instructions for decrypting an encrypted file. Encryption of data in use, at rest, and in transit is critical to security functions. We'll use Linux commands to uncover the clues needed to decode a classical cipher, restore a file, and reveal a hidden message.
 
